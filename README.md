@@ -9,7 +9,7 @@ Allows searching for a movie based on title and year searching with ombdapi.  Ba
 
 #### How do I use this?
 
-It's not difficult.  Just clone the repo to a directory, setup a basic web server with PHP (I prefer nginx and php-fpm), and off you go.  For some security, please use basic auth with your web server.
+Clone the repo to a directory, setup a basic web server with PHP (I prefer nginx and php-fpm), set a few variables in config.php (`couchpotato_url` and `couchpotato_api`) and off you go.  For some security, please use basic auth with your web server.
 
 #### How does this work?
 

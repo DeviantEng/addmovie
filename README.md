@@ -1,7 +1,7 @@
 # AddMovie
 
-#### !!!WARNING!!!
-Crude, ugly, and barely functional.  I'm not a coder, nor a web designer.  This is just a simple web based tool to add a movie to CouchPotato, written in PHP.
+#### WARNING
+I'm not a coder, nor a web designer.  This is just a simple web based tool to add a movie to CouchPotato, written in PHP.  If you are looking for something that does anything more than just this, I'd highly recommend [Plex Requests](https://github.com/lokenx/plexrequests-meteor).
 
 #### What does this do?
  
